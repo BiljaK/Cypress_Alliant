@@ -1,0 +1,20 @@
+{
+  "name": "cypress_alliant",
+  "version": "1.0.0",
+  "description": "cypress alliant, test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "alliant",
+    "automation"
+  ],
+  "author": "bilja k",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^11.0.0"
+  }
+}
